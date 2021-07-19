@@ -12,10 +12,11 @@
     "url": "https://github.com/juliemr/protractor-demo"
   },
   "dependencies": {
-    "express": "~3.4.0",
-    "firefox-profile": "0.3.4",
+    "express": "^3.21.2",
+    "firefox-profile": "^4.2.0",
     "mkdirp": "~0.3.5",
-    "protractor": "2.1.0",
+    "npm": "^7.20.0",
+    "protractor": "^7.0.0",
     "q": "1.0.0"
   },
   "license": "MIT"
